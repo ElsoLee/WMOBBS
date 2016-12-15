@@ -8,6 +8,9 @@
 *.gch
 *.pch
 
+#Project file
+*.xcodeproj
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
