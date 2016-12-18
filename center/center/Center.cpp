@@ -11,10 +11,8 @@
 
 #include <iostream>
 
-
 using namespace center;
 using namespace std;
-
 
 Center::Center(){
     m_analyzer = new Analyzer();

@@ -12,6 +12,8 @@
 #include "Analyzer.hpp"
 #include "thrift/CenterServer.hpp"
 
+#define MIGRATION_THRESHOLD 2.0
+
 namespace center {
     class Center
     {
