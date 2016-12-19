@@ -43,7 +43,7 @@ namespace center {
         Analyzer();
         void start();
         void stop();
-        void apply_migration(const MigrationDetailail &migrationDetail);
+        void apply_migration(const MigrationDetail &migrationDetail);
     };
 }
 #endif /* Analyzer_hpp */
